@@ -1,0 +1,9 @@
+# Source output records TensorFlow 2.21.0; full environment not independently reproduced.
+tensorflow==2.21.0
+numpy
+pandas
+matplotlib
+scikit-learn
+ipython
+notebook
+ipykernel
